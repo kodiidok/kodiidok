@@ -10,16 +10,12 @@
   <p>From developing queue management systems with .NET and React, to building Power BI dashboards for real-time bug tracking, my experience spans web, mobile, analytics, and cloud-native solutions.</p>
 
   <p>I'm especially passionate about solving real-world problems with clean code, scalable systems, and thoughtful design—whether in software, data, or AI.</p>
+
+  <span>📍Currently based in Kandy, Sri Lanka.</span><br />
+  <span>📬 Let’s connect if you're working on data-centric products, intelligent systems, or simply want to collaborate on meaningful tech.</span>
 <div>
 
 <br />
-
-<div style="width: 100%; margin-top: 1rem; margin-bottom: 1rem" align="center">
-  <div style="width: 500px" align="center">
-    <span>📍Currently based in Kandy, Sri Lanka.</span><br />
-    <span>📬 Let’s connect if you're working on data-centric products, intelligent systems, or simply want to collaborate on meaningful tech.</span>
-  </div>
-</div>
 
 <div style="width: 100%">
   <img src="assets/images/wallpaper.png" alt="wallpaper">
