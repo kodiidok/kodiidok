@@ -1,5 +1,5 @@
-<div style="display: flex; flex-direction: column; gap: 0px; text-align: center">
-  <h1>Sahan Kodituwakku</h1>
+<div style="display: flex; flex-direction: column; gap: 0px;">
+  <h1 align="center">Sahan Kodituwakku</h1>
 <div>
 
 <div style="text-align: justify">
@@ -17,9 +17,9 @@
 <hr>
 
 <div style="width: 100%; diplay: flex; justify-items: center; margin-top: 1rem">
-  <div style="width: 500px; display: flex; flex-direction: column; gap: 0px; text-align: center">
-    <p style="margin: 0px">📍Currently based in Kandy, Sri Lanka.</p>
-    <p>📬 Let’s connect if you're working on data-centric products, intelligent systems, or simply want to collaborate on meaningful tech.</p>
+  <div style="width: 500px; display: flex; flex-direction: column; gap: 0px;">
+    <p style="margin: 0px" align="center">📍Currently based in Kandy, Sri Lanka.</p>
+    <p align="center">📬 Let’s connect if you're working on data-centric products, intelligent systems, or simply want to collaborate on meaningful tech.</p>
   </div>
 </div>
 
@@ -29,10 +29,10 @@
 
 <br>
 
-<div style="display: flex; flex-direction: column; gap: 0px; text-align: center">
-  <p style="margin: 0px">📫 Reach me via</p> 
-  <p style="margin: 0px"><strong>sahan.crkodituwakku@gmail.com</strong></p>  
-  <p style="margin: 0px"><strong>+94 70 3413 298</strong></p>
+<div style="display: flex; flex-direction: column; gap: 0px;">
+  <p style="margin: 0px" align="center">📫 Reach me via</p> 
+  <p style="margin: 0px" align="center"><strong>sahan.crkodituwakku@gmail.com</strong></p>  
+  <p style="margin: 0px" align="center"><strong>+94 70 3413 298</strong></p>
 <div>
 
 <!-- <div style="display: flex; flex-direction: row; align-items: center; gap: 1rem;">
