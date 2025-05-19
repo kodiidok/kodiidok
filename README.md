@@ -12,7 +12,7 @@
   <p>I'm especially passionate about solving real-world problems with clean code, scalable systems, and thoughtful design—whether in software, data, or AI.</p>
 
   <span>📍Currently based in Kandy, Sri Lanka.</span><br />
-  <span>📬 Let’s connect if you're working on data-centric products, intelligent systems, or simply want to collaborate on meaningful tech.</span>
+  <span>📬Let’s connect if you're working on data-centric products, intelligent systems, or simply want to collaborate on meaningful tech.</span>
 <div>
 
 <br />
