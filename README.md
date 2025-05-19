@@ -1,8 +1,6 @@
-<div style="display: flex; flex-direction: column; gap: 0px;">
-  <h1 align="center">Sahan Kodituwakku</h1>
-<div>
+<h1 align="center">Sahan Kodituwakku</h1>
 
-<div style="text-align: justify">
+<div align="justify">
   <p>As a Software and Data Engineer with a B.Sc. (Hons) in Computer Science from the University of Peradeniya, I bring a unique blend of backend engineering, data pipeline development, and applied machine learning to the table.</p>
 
   <p>I have worked on large-scale eCommerce data processing pipelines, optimizing product search workflows using tools like MongoDB, Snowflake, Airflow, and AWS. Whether collaborating across Data Platform and Cloud Ops teams or fine-tuning systems with Grafana and Kibana, I focused on improving accuracy, speed, and reliability.</p>
@@ -14,12 +12,12 @@
   <p>I'm especially passionate about solving real-world problems with clean code, scalable systems, and thoughtful design—whether in software, data, or AI.</p>
 <div>
 
-<hr>
+<br />
 
-<div style="width: 100%; diplay: flex; justify-items: center; margin-top: 1rem">
-  <div style="width: 500px; display: flex; flex-direction: column; gap: 0px;">
-    <p style="margin: 0px" align="center">📍Currently based in Kandy, Sri Lanka.</p>
-    <p align="center">📬 Let’s connect if you're working on data-centric products, intelligent systems, or simply want to collaborate on meaningful tech.</p>
+<div style="width: 100%; margin-top: 1rem; margin-bottom: 1rem" align="center">
+  <div style="width: 500px" align="center">
+    <span>📍Currently based in Kandy, Sri Lanka.</span><br />
+    <span>📬 Let’s connect if you're working on data-centric products, intelligent systems, or simply want to collaborate on meaningful tech.</span>
   </div>
 </div>
 
@@ -29,11 +27,12 @@
 
 <br>
 
-<div style="display: flex; flex-direction: column; gap: 0px;">
-  <p style="margin: 0px" align="center">📫 Reach me via</p> 
-  <p style="margin: 0px" align="center"><strong>sahan.crkodituwakku@gmail.com</strong></p>  
-  <p style="margin: 0px" align="center"><strong>+94 70 3413 298</strong></p>
-<div>
+<div align="center">
+  <span>📫 Reach me via</span><br />
+  <strong>sahan.crkodituwakku@gmail.com</strong><br />
+  <strong>+94 70 3413 298</strong>
+</div>
+
 
 <!-- <div style="display: flex; flex-direction: row; align-items: center; gap: 1rem;">
   <img src="assets/icons/nestjs-svgrepo-com.svg" alt="nestjs" width="30" height="30">
